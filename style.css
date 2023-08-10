@@ -1,0 +1,20 @@
+.head{
+    background-color: #F4D160;
+}
+.half-circle {
+    /* width: 200px; */
+    /* height: 100vh; */
+    background-color: #1D5D9B;
+    border-radius: 0px 500px 500px 0px;
+}
+.half-circle>img{
+    border-radius: 50%;
+
+    /* object-fit: cover; */
+}
+.intro>h2{
+    color: #75C2F6;
+}
+body{
+    background-color: #75C2F6;
+}
